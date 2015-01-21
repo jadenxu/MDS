@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="MDS">
+        <file>forward.png</file>
+        <file>forward1.png</file>
+        <file>restart.png</file>
+    </qresource>
+</RCC>
